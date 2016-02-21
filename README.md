@@ -2,9 +2,7 @@
 
 starting point for jumpscale 8, has the story cards &amp; wiki starting points
 
-#@todo
-- put link to doc & main repo's
-- 
+ 
 
 features of jumpscale 8
 - core structure is clean & modular & properly organized under j.clients, j.sal, ...
@@ -33,3 +31,8 @@ modes of operation
 remarks
 - only support python 3.5+
 - support +- any linux distro + mac osx (windows not yet)
+
+'''
+@todo
+- put link to doc & main repo's
+'''
