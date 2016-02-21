@@ -32,7 +32,7 @@ remarks
 - only support python 3.5+
 - support +- any linux distro + mac osx (windows not yet)
 
-'''
+```
 @todo
 - put link to doc & main repo's
-'''
+```
