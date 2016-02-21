@@ -2,9 +2,7 @@
 
 starting point for jumpscale 8, has the story cards &amp; wiki starting points
 
- 
-
-features of jumpscale 8
+## features of jumpscale 8
 - core structure is clean & modular & properly organized under j.clients, j.sal, ...
 - documentation generated for all classes in js8 (there is a tool for that)
 - ays fully working (At Your Service)
@@ -32,7 +30,9 @@ remarks
 - only support python 3.5+
 - support +- any linux distro + mac osx (windows not yet)
 
-```
-@todo
-- put link to doc & main repo's
-```
+## see this link for the story cards
+
+- https://waffle.io/Jumpscale/jumpscale_core8?milestone=8.0&label=Story
+
+
+
