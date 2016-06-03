@@ -2,8 +2,8 @@
 
 # Issues per assignee
 - [muhamadazmy](#muhamadazmy) has 1 assigned
-- [rkhamis](#rkhamis) has 1 assigned
 - [abdulrahmantkhalifa](#abdulrahmantkhalifa) has 1 assigned
+- [rkhamis](#rkhamis) has 1 assigned
 
 
 
@@ -14,16 +14,16 @@
 |[#3](https://github.com/jumpscale/home/issues/3)|reality capturing & processing tool|:red_circle: Open|story|
 
 
-## [rkhamis](https://github.com/rkhamis)
-
-|Issue|Title|State|Type|
-|-----|-----|-----|----|
-|[#7](https://github.com/jumpscale/home/issues/7)|first blueprint portal|:large_blue_circle: In Progress|story|
-
-
 ## [abdulrahmantkhalifa](https://github.com/abdulrahmantkhalifa)
 
 |Issue|Title|State|Type|
 |-----|-----|-----|----|
 |[#8](https://github.com/jumpscale/home/issues/8)|Daily Build Test|:large_blue_circle: In Progress||
+
+
+## [rkhamis](https://github.com/rkhamis)
+
+|Issue|Title|State|Type|
+|-----|-----|-----|----|
+|[#7](https://github.com/jumpscale/home/issues/7)|first blueprint portal|:large_blue_circle: In Progress|story|
 
