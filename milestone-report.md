@@ -3,13 +3,13 @@
 # Summary
 |Milestone|ETA|
 |---------|---|
-|[js8.2](#milestone-js82)|0 seconds|
+|[js8.0](#milestone-js80)|0 seconds|
 |[js8.0_beta](#milestone-js80_beta)|0 seconds|
 |[js8.1](#milestone-js81)|0 seconds|
-|[js8.0](#milestone-js80)|0 seconds|
+|[js8.2](#milestone-js82)|0 seconds|
 |[No milestone](#no-milestone)|N/A|
 
-## [Milestone js8.2](milestones/4:js8.2.md)
+## [Milestone js8.0](milestones/8:js8.0.md)
 
 
 |Issue|Title|State|Owner|ETA|
@@ -27,7 +27,7 @@
 |Issue|Title|State|Owner|ETA|
 |-----|-----|-----|-----|---|
 
-## [Milestone js8.0](milestones/8:js8.0.md)
+## [Milestone js8.2](milestones/4:js8.2.md)
 
 
 |Issue|Title|State|Owner|ETA|
@@ -39,6 +39,6 @@
 ## No milestone
 |Issue|Title|State|Owner|ETA|
 |-----|-----|-----|-----|---|
-|[#7](https://github.com/jumpscale/home/issues/7)|first blueprint portal|:large_blue_circle: In Progress|[rkhamis](https://github.com/rkhamis)|N/A|
-|[#5](https://github.com/jumpscale/home/issues/5)|tutorial: raml -> working server python/golang|:red_circle: Open||N/A|
 |[#3](https://github.com/jumpscale/home/issues/3)|reality capturing & processing tool|:red_circle: Open|[muhamadazmy](https://github.com/muhamadazmy)|N/A|
+|[#5](https://github.com/jumpscale/home/issues/5)|tutorial: raml -> working server python/golang|:red_circle: Open||N/A|
+|[#7](https://github.com/jumpscale/home/issues/7)|first blueprint portal|:large_blue_circle: In Progress|[rkhamis](https://github.com/rkhamis)|N/A|
