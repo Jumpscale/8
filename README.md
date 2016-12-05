@@ -2,6 +2,8 @@
 
 starting point for jumpscale 8, has the story cards &amp; wiki starting points
 
+- kanban: [https://waffle.io/Jumpscale/home](https://waffle.io/Jumpscale/home)
+
 ## features of jumpscale 8
 - core structure is clean & modular & properly organized under j.clients, j.sal, ...
 - documentation generated for all classes in js8 (there is a tool for that)
