@@ -1,13 +1,13 @@
 # Jumpscale 8 Home Page
 
-starting point for jumpscale 8, has the story cards &amp; wiki starting points
+starting point for JumpScale 8, has the story cards &amp; wiki starting points
 
 - kanban: [https://waffle.io/Jumpscale/home](https://waffle.io/Jumpscale/home)
 
 ## features of jumpscale 8
-- core structure is clean & modular & properly organized under j.clients, j.sal, ...
-- documentation generated for all classes in js8 (there is a tool for that)
-- ays fully working (At Your Service)
+- Core structure is clean & modular & properly organized under j.clients, j.sal, ...
+- Documentation generated for all classes in js8 (there is a tool for that)
+- AYS fully working (At Your Service)
   - the core using nothing but ssh & git repo 
   - ays robot with telegram support
 - logging & stats to redis aggregator
@@ -17,7 +17,7 @@ starting point for jumpscale 8, has the story cards &amp; wiki starting points
   - jsportal support markdown as complete as confluence format
   - jsportal actor works server/client side (client generates doc automatically & client from other js8)
   - macro's to get to influxdb
-- cuisine2 support
+- JSCuisine support
   - own version of cuisine which has lots of tools to work with remote/local nodes for system mgmt
 - debugging of remote node running js8 on the 2 mode of operations
 - building support for 10+ apps and put these apps in sandbox to be used with js8fs
