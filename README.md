@@ -2,17 +2,27 @@
 
 This home repository serves a starting point for people to find their way in all other repos in the JumpScale product organization.
 
-- owner of these repos = Reem and Kristof (product owners)
-- [Kanban](https://waffle.io/Jumpscale/home)
+- Product Owners = [Reem](https://github.com/rkhamis) and [Kristof](https://github.com/despiegk)
+- Kanban:
+  - [JS8 Kanban](https://waffle.io/Jumpscale/home?milestone=8.2.0)
+  - [JS9 Kanban](https://waffle.io/Jumpscale/home?source=Jumpscale%2Fays9,Jumpscale%2Fcore9,Jumpscale%2Fdeveloper,Jumpscale%2Flib9,Jumpscale%2Fportal9,Jumpscale%2Fprefab9)
 - [Telegram](https://telegram.me/joinchat/Bb0WhAmxj5ZMhK2MZ7m2OQ)
 
 
 ## Repos:
 **Code Repos**:
-- [JumpScale8 Core](https://github.com/Jumpscale/jumpscale_core8)
-- [Jumpscale8 Portal](https://github.com/Jumpscale/jumpscale_portal8)
-- [AYS8](https://github.com/Jumpscale/ays_jumpscale8)
-- [JSCockpit](https://github.com/Jumpscale/jscockpit)
+- JumpScale 8:
+  - [JumpScale8 Core](https://github.com/Jumpscale/jumpscale_core8)
+  - [Jumpscale8 Portal](https://github.com/Jumpscale/jumpscale_portal8)
+  - [AYS8](https://github.com/Jumpscale/ays_jumpscale8)
+  - [JSCockpit](https://github.com/Jumpscale/jscockpit)
+- JumpScale 9:
+  - [Developer](https://github.com/Jumpscale/developer)
+  - [core9](https://github.com/Jumpscale/core9)
+  - [lib9](https://github.com/Jumpscale/lib9)
+  - [prefab9](https://github.com/Jumpscale/prefab9)
+  - [ays9](https://github.com/Jumpscale/ays9)
+  - [portal9](https://github.com/Jumpscale/portal9)
 
 **Tools Repos**:
 - [AYS Build](https://github.com/Jumpscale/ays_build)
@@ -59,7 +69,7 @@ remarks
 - [8.1.0](https://waffle.io/Jumpscale/home?milestone=8.1.0)
 - [8.2.0](https://waffle.io/Jumpscale/home?milestone=8.2.0)
 - [8.2.1](https://waffle.io/Jumpscale/home?milestone=8.2.1)
-
+- [9.0.0](https://waffle.io/Jumpscale/home?source=Jumpscale%2Fays9,Jumpscale%2Fcore9,Jumpscale%2Fdeveloper,Jumpscale%2Flib9,Jumpscale%2Fportal9,Jumpscale%2Fprefab9)
 
 ## Documentation:
 
