@@ -2,7 +2,7 @@
 
 This home repository serves a starting point for people to find their way in all other repos in the JumpScale product organization.
 
-- Product Owners = [Reem](https://github.com/rkhamis) and [Kristof](https://github.com/despiegk)
+- Product Owners: [Reem](https://github.com/rkhamis) and [Kristof](https://github.com/despiegk)
 - Kanban:
   - [JS8 Kanban](https://waffle.io/Jumpscale/home?milestone=8.2.0)
   - [JS9 Kanban](https://waffle.io/Jumpscale/home?source=Jumpscale%2Fays9,Jumpscale%2Fcore9,Jumpscale%2Fdeveloper,Jumpscale%2Flib9,Jumpscale%2Fportal9,Jumpscale%2Fprefab9)
