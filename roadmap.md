@@ -2,11 +2,14 @@
  * ### 8.1.1 (released)
    Current production release.
    
- * ### 8.2.0
+ * ### 8.1.3 (End of May)
+   New feature: [AYS for disk.ovc](https://github.com/Jumpscale/ays_jumpscale8/issues)
+   
+ * ### 8.2.0 (End of May)
    Mainly deals with cleanup of cuisine modules and a new version of AYS.
    See [kanban](https://waffle.io/Jumpscale/home?milestone=8.2.0)
 
- * ### 9.0.0
+ * ### 9.0.0 (first week of June)
    Restructuring JumpScale in a more modular architecture.
    See [kanban](https://waffle.io/Jumpscale/home?milestone=9.0.0)
     - Should introduce no new features.
