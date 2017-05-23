@@ -42,10 +42,6 @@ This home repository serves a starting point for people to find their way in all
 - Core structure is clean & modular & properly organized under j.clients, j.sal, ...
 - Documentation generated for all classes in js8 (there is a tool for that)
 - AYS fully working (At Your Service)
-  - the core using nothing but ssh & git repo
-  - ays robot with telegram support
-- logging & stats to redis aggregator
-  - example code how to send captured info to mongodb & influxdb (called reality db)
 - agent controller 8 (with agent ofcourse)
 - jsportal based on mongodb (no more osis)
   - jsportal support markdown as complete as confluence format
@@ -54,23 +50,22 @@ This home repository serves a starting point for people to find their way in all
   - own version of cuisine which has lots of tools to work with remote/local nodes for system mgmt
 - debugging of remote node running js8 on the 2 mode of operations
 - building support for 10+ apps and put these apps in sandbox to be used with js8fs
-- raft support: raft to python appserver (flask? / mongoengine models) (RAFT is description language for rest interfaces)
+- RAML support
 
-
-modes of operation
-- js8 golang based filesystem (sandboxed mode), no install required #@todo doc better
-- in developer mode (install in existing python 3 env)
+## Features of JumpScale 9
+- Restructuring code base to be more modular.
+- Doc generation
+- AYS
+- CI
+- Built completely in docker. See how to get started [here](https://github.com/Jumpscale/developer)
 
 remarks
 - only support python 3.5+
 - support +- any linux distro + mac osx (windows not yet)
 
 ## Milestones:
-- [8.1.0](https://waffle.io/Jumpscale/home?milestone=8.1.0)
-- [8.2.0](https://waffle.io/Jumpscale/home?milestone=8.2.0)
-- [8.2.1](https://waffle.io/Jumpscale/home?milestone=8.2.1)
-- [9.0.0](https://waffle.io/Jumpscale/home?source=Jumpscale%2Fays9,Jumpscale%2Fcore9,Jumpscale%2Fdeveloper,Jumpscale%2Flib9,Jumpscale%2Fportal9,Jumpscale%2Fprefab9)
-
+  See [Releases and Milestones](https://github.com/Jumpscale/home/blob/master/roadmap.md)
+  
 ## Documentation:
 
 - [JumpScale8 Core](https://gig.gitbooks.io/jumpscale-core8/content/)
