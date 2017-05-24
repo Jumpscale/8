@@ -2,6 +2,10 @@
  * ### 8.1.1 (released)
    Current production release.
    
+ * ### 8.1.2 (discontinued)
+   Put on roadmap. Regarding [deploying Rogerthat through AYS](https://github.com/Jumpscale/ays_jumpscale8/issues/163)
+   Work archived in: [core](https://github.com/Jumpscale/jumpscale_core8/releases/tag/archive_8.1.2) and [AYS](https://github.com/Jumpscale/ays_jumpscale8/releases/tag/archive_8.1.2)
+   
  * ### 8.1.3 (End of May)
    Based on 8.1.1
    New feature: [AYS template for disk.ovc](https://github.com/Jumpscale/ays_jumpscale8/issues/231)
