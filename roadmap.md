@@ -16,12 +16,12 @@
    Mainly deals with cleanup of cuisine modules and a new version of AYS.
    See [kanban](https://waffle.io/Jumpscale/home?milestone=8.2.0)
 
- * June 6, 2017: **[9.0.0]**(https://github.com/Jumpscale/core9/releases/tag/v9.0.0) [developer](https://github.com/Jumpscale/developer9/releases/tag/v9.0.0)[core9](https://github.com/Jumpscale/core9/releases/tag/v9.0.0)[ays9](https://github.com/Jumpscale/ays9/releases/tag/v9.0.0)[lib9](https://github.com/Jumpscale/lib9/releases/tag/v9.0.0) [prefab9](https://github.com/Jumpscale/prefab9/releases/tag/v9.0.0)[portal9](https://github.com/Jumpscale/core9/releases/tag/v9.0.0) (released)
+ * June 6, 2017: **[9.0.0]** [developer](https://github.com/Jumpscale/developer9/releases/tag/v9.0.0) [core9](https://github.com/Jumpscale/core9/releases/tag/v9.0.0) [ays9](https://github.com/Jumpscale/ays9/releases/tag/v9.0.0) [lib9](https://github.com/Jumpscale/lib9/releases/tag/v9.0.0) [prefab9](https://github.com/Jumpscale/prefab9/releases/tag/v9.0.0) [portal9](https://github.com/Jumpscale/core9/releases/tag/v9.0.0) (released)
    Restructuring JumpScale in a more modular architecture.
    See [kanban](https://waffle.io/Jumpscale/home?milestone=9.0.0)
     - Should introduce no new features.
   
- * June 22, 2017: **[9.0.3]** [developer](https://github.com/Jumpscale/developer9/releases/tag/v9.0.3)[core9](https://github.com/Jumpscale/core9/releases/tag/v9.0.3)[ays9](https://github.com/Jumpscale/ays9/releases/tag/v9.0.3)[lib9](https://github.com/Jumpscale/lib9/releases/tag/v9.0.3) [prefab9](https://github.com/Jumpscale/prefab9/releases/tag/v9.0.3)[portal9](https://github.com/Jumpscale/core9/releases/tag/v9.0.3)(released)
+ * June 22, 2017: **[9.0.3]** [developer](https://github.com/Jumpscale/developer9/releases/tag/v9.0.3) [core9](https://github.com/Jumpscale/core9/releases/tag/v9.0.3) [ays9](https://github.com/Jumpscale/ays9/releases/tag/v9.0.3) [lib9](https://github.com/Jumpscale/lib9/releases/tag/v9.0.3)  [prefab9](https://github.com/Jumpscale/prefab9/releases/tag/v9.0.3) [portal9](https://github.com/Jumpscale/core9/releases/tag/v9.0.3)(released)
     - Minor fixes for 9.0.0 and minor enhancements.
     - Set up CI for better quality and stability assurance
    See [kanban](https://waffle.io/Jumpscale/home?milestone=9.0.1)
