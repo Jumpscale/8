@@ -50,22 +50,22 @@ JumpScale 9 is the descendant of [JumpScale8](JS8.md)
 - support +- any linux distro + mac osx (windows not yet)
 
 ## Roadmap:
-  - May 7, 2017: **[8.1.1](https://github.com/Jumpscale/jumpscale_core8/releases/tag/v8.1.1)** (released)
-   Current production release.
+ * May 7, 2017: **[8.1.1](https://github.com/Jumpscale/jumpscale_core8/releases/tag/v8.1.1)** (released)
+    - Current production release.
    
- - **8.1.2** (discontinued)
-   Put on roadmap.
-   Regarding [deploying Rogerthat through AYS](https://github.com/Jumpscale/ays_jumpscale8/issues/163)
+ * **8.1.2** (discontinued)
+   - Put on roadmap.
+   - Regarding [deploying Rogerthat through AYS](https://github.com/Jumpscale/ays_jumpscale8/issues/163)
    
-   Work archived in: [core](https://github.com/Jumpscale/jumpscale_core8/releases/tag/archive_8.1.2) and [AYS](https://github.com/Jumpscale/ays_jumpscale8/releases/tag/archive_8.1.2)
+   - Work archived in: [core](https://github.com/Jumpscale/jumpscale_core8/releases/tag/archive_8.1.2) and [AYS](https://github.com/Jumpscale/ays_jumpscale8/releases/tag/archive_8.1.2)
    
- - May 25, 2017: **[8.1.3](https://github.com/Jumpscale/jumpscale_core8/releases/tag/v8.1.3)** (released)
-   Based on 8.1.1
-   New feature: [AYS template for disk.ovc](https://github.com/Jumpscale/ays_jumpscale8/issues/231)
+ * May 25, 2017: **[8.1.3](https://github.com/Jumpscale/jumpscale_core8/releases/tag/v8.1.3)** (released)
+   - Based on 8.1.1
+   - New feature: [AYS template for disk.ovc](https://github.com/Jumpscale/ays_jumpscale8/issues/231)
    
- - **8.2.0** (Discontinuted. Work moved to 9.0.0)
-   Mainly deals with cleanup of cuisine modules and a new version of AYS.
-   See [kanban](https://waffle.io/Jumpscale/home?milestone=8.2.0)
+ * **8.2.0** (Discontinuted. Work moved to 9.0.0)
+   - Mainly deals with cleanup of cuisine modules and a new version of AYS.
+   - See [kanban](https://waffle.io/Jumpscale/home?milestone=8.2.0)
 
  * June 6, 2017: **[9.0.0](release_notes/9.0.0.md)** (released)
    - Release includes:
