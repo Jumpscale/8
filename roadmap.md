@@ -1,5 +1,5 @@
 ## Milestones and releases:
- * ### 8.1.1 (released)
+ * ### May 7, 2017: [8.1.1](https://github.com/Jumpscale/jumpscale_core8/releases/tag/v8.1.1) (released)
    Current production release.
    
  * ### 8.1.2 (discontinued)
@@ -8,7 +8,7 @@
    
    Work archived in: [core](https://github.com/Jumpscale/jumpscale_core8/releases/tag/archive_8.1.2) and [AYS](https://github.com/Jumpscale/ays_jumpscale8/releases/tag/archive_8.1.2)
    
- * ### 8.1.3 (released)
+ * ### May 25, 2017: [8.1.3](https://github.com/Jumpscale/jumpscale_core8/releases/tag/v8.1.3) (released)
    Based on 8.1.1
    New feature: [AYS template for disk.ovc](https://github.com/Jumpscale/ays_jumpscale8/issues/231)
    
@@ -16,17 +16,17 @@
    Mainly deals with cleanup of cuisine modules and a new version of AYS.
    See [kanban](https://waffle.io/Jumpscale/home?milestone=8.2.0)
 
- * ### 9.0.0 (released)
+ * ### June 6, 2017: [9.0.0](https://github.com/Jumpscale/core9/releases/tag/v9.0.0) (released)
    Restructuring JumpScale in a more modular architecture.
    See [kanban](https://waffle.io/Jumpscale/home?milestone=9.0.0)
     - Should introduce no new features.
   
- * ### 9.0.1 (to be released 20.06.2017)
+ * ### June 22, 2017: 9.0.3(https://github.com/Jumpscale/core9/releases/tag/v9.0.3) (released)
     - Minor fixes for 9.0.0 and minor enhancements.
     - Set up CI for better quality and stability assurance
    See [kanban](https://waffle.io/Jumpscale/home?milestone=9.0.1)
  
- * ### 9.1.0 (To be further defined)
+ * ### July 4, 2017: 9.1.0 (in progress)
    See [kanban](https://waffle.io/Jumpscale/home?milestone=9.1.0)
    
    Current new features:
