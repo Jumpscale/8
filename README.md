@@ -39,7 +39,7 @@ JumpScale 9 is the descendant of [JumpScale8](JS8.md)
 - CI
 - Built completely in docker. See how to get started [here](https://github.com/Jumpscale/developer)
 
-remarks
+## remarks
 - only support python 3.5+
 - support +- any linux distro + mac osx (windows not yet)
 
