@@ -79,7 +79,6 @@ JumpScale 9 is the descendant of [JumpScale8](JS8.md)
  
  * July 4, 2017: **[9.1.0](milestones/9.1.0.md)** (in progress)
     - Introduces:
-       - support gowncloud
        - support installation on multiple linux platforms as well as windows
        - Blueprints editor
        - Show progress of runs in AYS portal
