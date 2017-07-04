@@ -77,12 +77,12 @@ JumpScale 9 is the descendant of [JumpScale8](JS8.md)
      - Minor fixes for 9.0.0 and minor enhancements.
      - Set up CI for better quality and stability assurance
  
- * July 4, 2017: **[9.1.0](milestones/9.1.0.md)** (in progress)
+ * July 6, 2017: **[9.1.0](milestones/9.1.0.md)** (in progress)
     - Introduces:
-       - support installation on multiple linux platforms as well as windows
+       - support installation on multiple linux distributions as well as windows
        - Blueprints editor
        - Show progress of runs in AYS portal
-       - Support Windows
+       - Some AYS templates
 
 
   
