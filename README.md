@@ -78,13 +78,17 @@ JumpScale 9 is the descendant of [JumpScale8](JS8.md)
      - Set up CI for better quality and stability assurance
  
  * July 24, 2017: **[9.1.0](release_notes/9.1.0.md)** (released)
-    - Introduces:
+    - release includes:
        - support installation on multiple linux distributions as well as windows
        - Blueprints editor
        - long running jobs
        - AYS functionality testsuite
        - Removes inotify from AYS (now use `reload`)
        - AYS pushes repo on service model change
+
+ * July 7, 2017: **[9.1.1](milestones/9.1.1.md)** (in progress)
+     - Fixes in AYS
+     - Actor templates on top of VDC 3.0
 
       
 
