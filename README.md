@@ -1,3 +1,5 @@
+[![Stories in progress](https://badge.waffle.io/Jumpscale/home.png?label=state_inprogress&title=In%20Progress)](http://waffle.io/Jumpscale/home)
+
 # Jumpscale 9 Home Page
 
 This home repository serves a starting point for people to find their way in all other repos in the JumpScale product organization.
