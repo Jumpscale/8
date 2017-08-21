@@ -8,7 +8,7 @@ else
     apt-get update
     apt-get install -y debootstrap
     mkdir -p /mnt/ubuntu
-    debootstrap --include git-core,curl,ca-certificates,tmux,openssh-client  --arch amd64 xenial /mnt/ubuntu
+    debootstrap --include git-core,curl,ca-certificates,tmux,openssh-client,openssh-server --arch amd64 xenial /mnt/ubuntu http://archive.ubuntu.com/ubuntu/
     sed -i "s/main/main restricted universe multiverse/" /mnt/ubuntu/etc/apt/sources.list
     chroot /mnt/ubuntu /bin/bash -c "apt-get update && apt-get install redis-server -y"
     curl -s https://raw.githubusercontent.com/Jumpscale/developer/master/mascot?$RANDOM > /mnt/ubuntu/root/.mascot.txt
