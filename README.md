@@ -88,9 +88,18 @@ JumpScale 9 is the descendant of [JumpScale8](JS8.md)
        - Removes inotify from AYS (now use `reload`)
        - AYS pushes repo on service model change
 
- * July 7, 2017: **[9.1.1](milestones/9.1.1.md)** (in progress)
+ * August 9, 2017: **[9.1.1](release_notes/9.1.1.md)** (released)
      - Fixes in AYS
      - Actor templates on top of VDC 3.0
+ 
+ * September 6, 2017: **[9.1.2](release_notes/9.1.2.md)**(released)
+     - AYS API exposes listing jobs and filtering them
+     - Jobs can be tagged and filtered on those tags
+     - Fix for producer remove
+     
+ * September 20, 2017 **[9.1.3](milestones/9.1.3.md)**(in progress)
+     - More OVC actor templates
+     - More streamlined installation
 
       
 
