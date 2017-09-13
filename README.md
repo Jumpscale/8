@@ -20,7 +20,7 @@ JumpScale 9 is the descendant of [JumpScale8](JS8.md)
 
 ## Repos:
 **Code Repos**:
-  - [Developer](https://github.com/Jumpscale/developer)
+  - [bash](https://github.com/Jumpscale/bash)
   - [core9](https://github.com/Jumpscale/core9)
   - [lib9](https://github.com/Jumpscale/lib9)
   - [prefab9](https://github.com/Jumpscale/prefab9)
@@ -107,7 +107,7 @@ JumpScale 9 is the descendant of [JumpScale8](JS8.md)
   
 ## Documentation:
 
-- To get started, see [developer](https://github.com/Jumpscale/developer)
+- To get started, see [bash](https://github.com/Jumpscale/bash)
 - Core [docs](https://github.com/Jumpscale/core9/tree/master/docs)
 - AYS [docs](https://github.com/Jumpscale/ays9/tree/master/docs)
 - Prefab [docs](https://github.com/Jumpscale/prefab9/tree/master/docs)
