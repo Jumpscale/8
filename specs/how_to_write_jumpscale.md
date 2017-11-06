@@ -11,6 +11,13 @@ We should aim to follow [pep8](https://www.python.org/dev/peps/pep-0008/) standa
   - __Docstrings__ should be defined on all methods and functions, unless immediately intuitive from name.
   - __Docs__ defined under `/docs/` of each repo.
 
+## Testing:
+ - For AYS:
+ https://github.com/Jumpscale/ays9/blob/master/ays_testrunner/readme.md
+
+ - For unit testing:
+ https://github.com/Jumpscale/home/blob/master/specs/how_to_write_tests.md
+
 
 ## Extending Prefab:
  TODO: define how a prefab module should look like.
