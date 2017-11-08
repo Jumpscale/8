@@ -4,12 +4,11 @@
 
 This home repository serves a starting point for people to find their way in all other repos in the JumpScale product organization.
 
-JumpScale 9 is the descendant of [JumpScale8](JS8.md)
-
 - Product Owners: [Reem](https://github.com/rkhamis) and [Kristof](https://github.com/despiegk)
 - Kanban:
-  - [JS9 Kanban](https://waffle.io/Jumpscale/home?source=Jumpscale%2Fays9,Jumpscale%2Fcore9,Jumpscale%2Fdeveloper,Jumpscale%2Flib9,Jumpscale%2Fportal9,Jumpscale%2Fprefab9)
-  - [current work: 9.3.0](https://waffle.io/Jumpscale/home?milestone=9.3.0)
+  - [bugfixing upcoming release: 9.2.0](https://waffle.io/Jumpscale/home?milestone=9.2.0)
+  - [current work: 9.3.0](https://waffle.io/Jumpscale/home?milestone=9.3.0)  
+  - [unsorted work = no milestones](https://waffle.io/Jumpscale/home?milestone=none)  
 - [Telegram](https://telegram.me/joinchat/Bb0WhAmxj5ZMhK2MZ7m2OQ)
 
 # Table of contents
@@ -17,7 +16,6 @@ JumpScale 9 is the descendant of [JumpScale8](JS8.md)
  - [Features](#features)
  - [Release Schedule](#roadmap)
  - [Documentation](#documentation)
-
 
 ## Repos:
 **Code Repos**:
