@@ -6,7 +6,7 @@ This home repository serves a starting point for people to find their way in all
 
 - Product Owners: [Reem](https://github.com/rkhamis) and [Kristof](https://github.com/despiegk)
 - Kanban:
-  - [bugfixing upcoming release: 9.2.0](https://waffle.io/Jumpscale/home?milestone=9.2.0)
+  - [bugfixing upcoming release: 9.2.0](https://waffle.io/Jumpscale/home?milestone=9.2.0) : nov week 2 or 3 2017
   - [current work: 9.3.0](https://waffle.io/Jumpscale/home?milestone=9.3.0)  
   - [unsorted work = no milestones](https://waffle.io/Jumpscale/home?milestone=none)  
 - [Telegram](https://telegram.me/joinchat/Bb0WhAmxj5ZMhK2MZ7m2OQ)
