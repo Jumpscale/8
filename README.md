@@ -11,6 +11,26 @@ This home repository serves a starting point for people to find their way in all
   - [unsorted work = no milestones](https://waffle.io/Jumpscale/home?milestone=none)  
 - [Telegram](https://telegram.me/joinchat/Bb0WhAmxj5ZMhK2MZ7m2OQ)
 
+# Roadmap
+
+## 9.3.0 (is major upgrade)
+
+- lots of bugfixes
+- serious upgrade of ays
+  - goal: more scalability
+  - how: using tarantool as database & no longer threading model, use of out of process job manager
+- much cleaner structure of the prefab modules (cleanup in namespaces)
+- lots of refactoring of certain modules to follow better naming conventions
+- cleaner DSL's = Domain Specific Language modules = our SAL's & Clients (they need to be all clean & easy to use & documented) : we will not be able to review all of them, but the ones we need for openvcloud will be looked at first
+- more consistent documentation (step 1)
+
+## 9.3.1
+
+- further cleanup of SAL/Clients (more consistent naming & documentation)
+- further testing & bugfixing of new modules e.g. AYS 9.3.x which got major upgrade
+- cleanup of the AYS actions (to use the new SAL/Clients)
+- more consistent documentation (step 2)
+
 # Table of contents
  - [Repos](#repos)
  - [Features](#features)
