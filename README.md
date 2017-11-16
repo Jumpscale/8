@@ -6,7 +6,6 @@ This home repository serves a starting point for people to find their way in all
 
 - Product Owners: [Reem](https://github.com/rkhamis) and [Kristof](https://github.com/despiegk)
 - Kanban:
-  - [bugfixing upcoming release: 9.2.0](https://waffle.io/Jumpscale/home?milestone=9.2.0) : nov week 2 or 3 2017
   - [current work: 9.3.0](https://waffle.io/Jumpscale/home?milestone=9.3.0): nov end 2017  
   - [unsorted work = no milestones](https://waffle.io/Jumpscale/home?milestone=none)  
 - [Telegram](https://telegram.me/joinchat/Bb0WhAmxj5ZMhK2MZ7m2OQ)
@@ -116,10 +115,13 @@ This home repository serves a starting point for people to find their way in all
      - Jobs can be tagged and filtered on those tags
      - Fix for producer remove
      
- * September 20, 2017 **[9.1.3](milestones/9.1.3.md)** (in progress)
+ * September 20, 2017 **[9.1.3](release_notes/9.1.3.md)** (released)
      - More OVC actor templates
      - More streamlined installation
 
+ * November 16, 2017: **[9.2.0](release_notes/9.2.0.md)** (released)
+ 
+ * October 1, 2017: **[9.3.0](milestones/9.3.0)** (in progress)      
       
 
 
