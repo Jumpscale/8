@@ -14,5 +14,5 @@ For reference, check [test_SSHClientFactory](https://github.com/Jumpscale/core9/
 
 ### Running the Unit Testing
 
-- To run the whole test suite you can run `pylint` at the directory root, it'll run by default every file that starts with `test_*`
+- To run the whole test suite you can run `pytest` at the directory root, it'll run by default every file that starts with `test_*`
 - To run a separate module test suite, you can run `pytest -m {module_test_suite}` for example `pytest -m ssh_factory` to [test_SSHClientFactory](https://github.com/Jumpscale/core9/blob/master/JumpScale9/clients/ssh/test_SSHClientFactory.py)
