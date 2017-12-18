@@ -30,6 +30,8 @@ This home repository serves a starting point for people to find their way in all
 - cleanup of the AYS actions (to use the new SAL/Clients)
 - more consistent documentation (step 2)
 
+[discussion on features on following link](https://docs.google.com/document/d/10XUccxVCZijrOuozt0S4OGkfl1zwf6UOxyQoBZTxcAY/edit)
+
 # Table of contents
  - [Repos](#repos)
  - [Features](#features)
