@@ -22,6 +22,7 @@ This home repository serves a starting point for people to find their way in all
 - lots of refactoring of certain modules to follow better naming conventions
 - cleaner DSL's = Domain Specific Language modules = our SAL's & Clients (they need to be all clean & easy to use & documented) : we will not be able to review all of them, but the ones we need for openvcloud will be looked at first
 - more consistent documentation (step 1)
+- zero-robot feature (alfa)
 
 ## 9.3.1
 
@@ -29,6 +30,7 @@ This home repository serves a starting point for people to find their way in all
 - further testing & bugfixing of new modules e.g. AYS 9.3.x which got major upgrade
 - cleanup of the AYS actions (to use the new SAL/Clients)
 - more consistent documentation (step 2)
+- zero-robot (beta)
 
 [discussion on features on following link](https://docs.google.com/document/d/10XUccxVCZijrOuozt0S4OGkfl1zwf6UOxyQoBZTxcAY/edit)
 
