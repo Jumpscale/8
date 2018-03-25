@@ -1,5 +1,10 @@
 [![Stories in progress](https://badge.waffle.io/Jumpscale/home.png?label=state_inprogress&title=In%20Progress)](http://waffle.io/Jumpscale/home?label=state_inprogress)
 
+# epics
+
+- [builder](https://app.zenhub.com/workspace/o/jumpscale/home/issues/25)
+
+
 # Jumpscale 9 Home Page
 
 This home repository serves a starting point for people to find their way in all other repos in the JumpScale product organization.
@@ -9,6 +14,7 @@ This home repository serves a starting point for people to find their way in all
   - [current work: 9.3.0](https://waffle.io/Jumpscale/home?milestone=9.3.0): end of Jan 2018  
   - [unsorted work = no milestones](https://waffle.io/Jumpscale/home?milestone=none)  
 - [Telegram](https://telegram.me/joinchat/Bb0WhAmxj5ZMhK2MZ7m2OQ)
+- [zenhub](https://app.zenhub.com/workspace/o/jumpscale/core9/boards?repos=88135883,88136342,88135985,52195136,85781974,126448318,114596303)
 
 # Roadmap
 
@@ -21,15 +27,10 @@ This home repository serves a starting point for people to find their way in all
 - much cleaner structure of the prefab modules (cleanup in namespaces)
 - lots of refactoring of certain modules to follow better naming conventions
 - cleaner DSL's = Domain Specific Language modules = our SAL's & Clients (they need to be all clean & easy to use & documented) : we will not be able to review all of them, but the ones we need for openvcloud will be looked at first
-- more consistent documentation (step 1)
-- zero-robot feature (alfa)
-
-## 9.3.1
-
 - further cleanup of SAL/Clients (more consistent naming & documentation)
 - further testing & bugfixing of new modules e.g. AYS 9.3.x which got major upgrade
 - cleanup of the AYS actions (to use the new SAL/Clients)
-- more consistent documentation (step 2)
+- more consistent documentation
 - zero-robot (beta)
 
 [discussion on features on following link](https://docs.google.com/document/d/10XUccxVCZijrOuozt0S4OGkfl1zwf6UOxyQoBZTxcAY/edit)
