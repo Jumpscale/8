@@ -7,7 +7,7 @@ This home repository serves a starting point for people to find their way in all
 
 - Product Owners: [Reem](https://github.com/rkhamis) and [Kristof](https://github.com/despiegk)
 - Kanban:
-  - [current work: 9.3.0](https://waffle.io/Jumpscale/home?milestone=9.3.0): end of April 2018  
+  - [current work: 9.3.0](https://waffle.io/Jumpscale/home?milestone=9.3.0): Mid May 2018  
   - [unsorted work = no milestones](https://waffle.io/Jumpscale/home?milestone=none)  
 - [Telegram](https://telegram.me/joinchat/Bb0WhAmxj5ZMhK2MZ7m2OQ)
 
@@ -121,7 +121,7 @@ This home repository serves a starting point for people to find their way in all
 
  * November 16, 2017: **[9.2.0](release_notes/9.2.0.md)** (released)
  
- * October 1, 2017: **[9.3.0](milestones/9.3.0)** (in progress)      
+ * May 8th, 2017: **[9.3.0](milestones/9.3.0)** (in progress)      
       
 
 
