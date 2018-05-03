@@ -121,7 +121,7 @@ This home repository serves a starting point for people to find their way in all
 
  * November 16, 2017: **[9.2.0](release_notes/9.2.0.md)** (released)
  
- * May 8th, 2017: **[9.3.0](milestones/9.3.0)** (in progress)      
+ * May 8th, 2018: **[9.3.0](milestones/9.3.0)** (in progress)      
       
 
 
