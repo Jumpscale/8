@@ -7,24 +7,11 @@ This home repository serves a starting point for people to find their way in all
 
 - Product Owners: [Reem](https://github.com/rkhamis) and [Kristof](https://github.com/despiegk)
 - Kanban:
-  - [current work: 9.4.0](https://waffle.io/Jumpscale/home?milestone=9.4.0): End of June 2018  
+  - [current work: 9.4.0](https://waffle.io/Jumpscale/home?milestone=9.4.0): End of July 2018  
   - [unsorted work = no milestones](https://waffle.io/Jumpscale/home?milestone=none)  
 - [Telegram](https://telegram.me/joinchat/Bb0WhAmxj5ZMhK2MZ7m2OQ)
 
 # Roadmap
-
-## 9.3.0 (is major upgrade)
-
-- lots of bugfixes
-- serious upgrade of ays
-  - goal: more scalability
-  - how: using tarantool as database & no longer threading model, use of out of process job manager
-- much cleaner structure of the prefab modules (cleanup in namespaces)
-- lots of refactoring of certain modules to follow better naming conventions
-- cleaner DSL's = Domain Specific Language modules = our SAL's & Clients (they need to be all clean & easy to use & documented) : we will not be able to review all of them, but the ones we need for openvcloud will be looked at first
-- further cleanup of SAL/Clients (more consistent naming & documentation)
-- more consistent documentation
-- zero-robot (beta) = replacement of AYS
 
 ## 9.4.0
 
